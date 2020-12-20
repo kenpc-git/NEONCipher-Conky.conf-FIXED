@@ -1,5 +1,4 @@
 # NEON-Cipher-Conky.conf-FIXED
-Files that have helped me
 Converted the config.conf from http://neoncipher.net/v/conky/
 
 Origional file setup credit goes to Neon Cipher.
